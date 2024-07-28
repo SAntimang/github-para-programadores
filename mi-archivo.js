@@ -1,3 +1,3 @@
-alert("EDITADO Prueba 26");
+alert("CAMBIO ORIGINAL");
 console.log("cambios en el archivo update")
 
